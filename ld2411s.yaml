@@ -16,7 +16,7 @@ esp32:
 esphome:
   name: $device_name
   includes:
-    - header/LD2411s.h
+    - LD2411s.h
   platformio_options:
     board_upload.flash_size: 4MB
   on_boot:
