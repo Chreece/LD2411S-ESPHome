@@ -4,7 +4,7 @@
 ![LD2411S](https://www.hlktech.net/res/_cache/auto/14/1459.png)
 
 ## Installation
-* Copy the .yaml in your ESPHome config and the .h file into config/headers folder. 
+* Copy the .yaml and the .h files in your ESPHome config. 
 * Set wifi_ssid, wifi_password, encryption_key, ota_update and fallback_pass in your secrets.yaml from ESPHome.
 * Change the ESP board settings and uart_tx_pin, uart_rx_pin to match your setup
 * Compile and upload
