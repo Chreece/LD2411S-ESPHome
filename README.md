@@ -34,5 +34,5 @@ RX | TX  |
 
 ## Description
 The sensor recognises motion and presence of targets which are in between the distance values given. To change the values, edit the number entities and hit Set Parameter. 
-It includes a Bluetooth module and can communicate with it using [HLKRadarTool](https://www.pgyer.com/Lq8p) app.
+It includes a Bluetooth module, and it's compatible with the [HLKRadarTool](https://www.pgyer.com/Lq8p) app.
 OTA updates available also via Bluetooth.
