@@ -1,5 +1,5 @@
 # LD2411S
-[HiLink LD2411S](http://aliexpress.com/item/1005005570708923.html) 24GHz mmwave Static and Motion Sensor. ESPHome Integration
+[HiLink LD2411S](https://www.hlktech.net/index.php?id=1152) 24GHz mmwave Static and Motion Sensor. ESPHome Integration
 
 ![LD2411S](https://www.hlktech.net/res/_cache/auto/14/1459.png)
 
