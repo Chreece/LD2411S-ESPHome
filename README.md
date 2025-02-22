@@ -1,3 +1,6 @@
+## DEPRECATED INFO
+# This custom template doesn't work after ESPHOME 2025.2 and will be no longer maintained. Feel free to make a PR if you are interested to support this project.
+
 # LD2411S
 [HiLink LD2411S](https://www.hlktech.net/index.php?id=1152) 24GHz mmwave Static and Motion Sensor. ESPHome Integration
 
