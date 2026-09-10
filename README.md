@@ -1,3 +1,6 @@
+
+💙 **Enjoying this hobby project? [Send a voluntary thank-you via Ko-fi](https://ko-fi.com/chreece).**
+
 ## DEPRECATED INFO
 # This custom template doesn't work after ESPHOME 2025.2 and will be no longer maintained. 
 # Please use this new implementation: https://github.com/samuelolteanu/LD2411S-ESPHome
@@ -40,3 +43,11 @@ RX | TX  |
 The sensor recognises motion and presence of targets which are in between the distance values given. To change the values, edit the number entities and hit Set Parameter. 
 It includes a Bluetooth module, and it's compatible with the [HLKRadarTool](https://www.pgyer.com/Lq8p) app.
 OTA updates available also via Bluetooth.
+
+## ❤️ Voluntary support
+
+This is a private hobby project maintained in my free time and provided independently of contributions.
+
+If you enjoy the project and would like to send me a voluntary personal thank-you, you can use **[Ko-fi](https://ko-fi.com/chreece)**.
+
+Contributions are completely optional and do **not** buy or guarantee features, support, development work, early access, priority, or any other service. This is not a charitable donation and no donation receipt is issued.
