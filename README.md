@@ -6,8 +6,6 @@
 </p>
 
 
-💙 **Enjoying this hobby project? [Send a voluntary thank-you via Ko-fi](https://ko-fi.com/chreece).**
-
 ## DEPRECATED INFO
 # This custom template doesn't work after ESPHOME 2025.2 and will be no longer maintained. 
 # Please use this new implementation: https://github.com/samuelolteanu/LD2411S-ESPHome
